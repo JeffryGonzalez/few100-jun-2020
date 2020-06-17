@@ -11,3 +11,7 @@ div.container-fluid>header.jumbotron>p.subheading {
     font-size: 1.5em;
     padding: 1%;
 }
+
+.summary span {
+    font-weight: bold;
+}
