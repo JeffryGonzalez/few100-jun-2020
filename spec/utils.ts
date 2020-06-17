@@ -14,3 +14,7 @@ export const doubleIt = (n: number) => n + n;
 // }
 
 // export type Thingy = number;
+
+export default function (a: number) {
+    return a * 2;
+}
